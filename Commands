@@ -13,6 +13,8 @@ git log
 git log --oneline
 git log --oneline --pretty
 git clone is use to make copy
-git pull is used t update repo alredy to local, the command work within the git repository
 git remote -v to check the repository belonging whom
-
+git pull this command wich update the particular branch {git pull origin main}
+git push this command is used to share the changes to github
+git fetch this command help to get all branches
+gir clone this command will clne entire repository like copy of particular folder
