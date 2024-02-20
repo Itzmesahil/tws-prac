@@ -14,4 +14,5 @@ git log --oneline
 git log --oneline --pretty
 git clone is use to make copy
 git pull is used t update repo alredy to local, the command work within the git repository
+git remote -v to check the repository belonging whom
 
