@@ -1,5 +1,7 @@
-Learning git with shubham londe:-----
-creating repository which is root .git 
+Learning git with shubham londe:
+-----------------------------------------
+-----------------------------------------
+Creating repository which is root .git 
 learned diffrent commands till such as:---
 git config --global user.name ""
 git config --global user.email ""
