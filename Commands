@@ -22,7 +22,7 @@ git fetch this command help to get all branches
 gir clone this command will clne entire repository like copy of particular folder
 git remote -v
 git remote set-url origin
-git remote set-url --add origin https://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@github.com/Itzmesahil/tws-prac.git
+git remote set-url --add origin https://ghp_R7UMOO2b********Jk****31*OP@github.com/Itzmesahil/tws-prac.git
 git remote -v
 git remote set-url --delete origin origin  https://github.com/Itzmesahil/tws-prac.git
 git remote set-url --delete origin  https://github.com/Itzmesahil/tws-prac.git
