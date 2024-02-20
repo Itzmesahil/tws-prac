@@ -1,0 +1,15 @@
+Learning git with shubham londe:-----
+creating repository which is root .git 
+learned diffrent commands till such as:---
+git config --global user.name ""
+git config --global user.email ""
+git init
+git add
+git commit -m ""
+git branch -b
+git branch
+git restore 
+git log
+git log --oneline
+git log --oneline --pretty
+
